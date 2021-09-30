@@ -8,7 +8,7 @@ This theme is based on the default `bobbyrussell`, but applies some changes. I h
 
 ## Requirements
 
-You must have installed [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) and [oh-my-zsh](https://ohmyz.sh/).
+You must have installed [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) and [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh).
 
 ## Set up
 
