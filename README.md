@@ -31,7 +31,7 @@ Then, restart your zsh session to apply the changes or reload the zsh profile:
 . ./.zshrc
 ```
 
-### Preview
+## Preview
 
 <img src="images/apple-zsh-custom-theme-light.png" width="50%" /><img src="images/apple-zsh-custom-theme-dark.png" width="50%" />
 
