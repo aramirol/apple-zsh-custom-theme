@@ -6,6 +6,8 @@
 
 ## Installation
 
+Based on the default `robbyrussell` theme with some changes.
+
 Copy custom theme file to zsh custom themes path:
 ```sh
 cp apple-custom.zsh-theme $ZSH/custom/themes/
