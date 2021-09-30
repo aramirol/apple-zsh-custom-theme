@@ -1,8 +1,8 @@
 # Color vars
-apple="$FG[208]"
-git="$FG[208]"
-arrow="$FG[208]"
-gitmark="$FG[3]"
+apple="$FG[208]" #  (the apple mark that start the line)
+git="$FG[208]" # git:(main) (brackets takes the default foreground colour of the terminal)
+arrow="$FG[208]" # > (the final mark before our commands)
+gitmark="$FG[3]" # ✗ (only when there are changes in the branch)
 
 # Adding Apple logo
 PROMPT="%(?:${apple}%B%b :${apple}%B%b )"
