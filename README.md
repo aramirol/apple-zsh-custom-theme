@@ -1,12 +1,16 @@
 # Apple ZSH Custom Themes
-dads
+
 ![GitHub](https://img.shields.io/github/license/aramirol/apple-zsh-custom-themes?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aramirol/apple-zsh-custom-themes?logo=github)
 ![Shell](https://img.shields.io/badge/shell-zsh-orange?logo=github)
 
-## Installation
-
 This theme is based on the default `bobbyrussell`, but applies some changes. I have added variables to set colors by modifying only var code. By default I use **orange** color.
+
+## Requirements
+
+You must have installed [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH) and [oh-my-zsh](https://ohmyz.sh/).
+
+## Set up
 
 Copy custom theme file to zsh custom themes path:
 ```sh
@@ -27,7 +31,7 @@ Then, restart your zsh session to apply the changes or reload the zsh profile:
 . ./.zshrc
 ```
 
-### Screenshots
+### Preview
 
 <img src="images/apple-zsh-custom-theme-light.png" width="50%" /><img src="images/apple-zsh-custom-theme-dark.png" width="50%" />
 
