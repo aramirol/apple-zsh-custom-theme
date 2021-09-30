@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/aramirol/apple-zsh-custom-themes?logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/aramirol/apple-zsh-custom-themes?logo=github)
-![Shell](https://img.shields.io/badge/shell-zsh-magenta?logo=github)
+![Shell](https://img.shields.io/badge/shell-zsh-orange?logo=github)
 
 ## Installation
 
