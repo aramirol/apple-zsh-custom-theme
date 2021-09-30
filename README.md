@@ -6,7 +6,7 @@
 
 ## Installation
 
-Based on the default `robbyrussell` theme with some changes.
+This theme is based on the default `bobbyrussell`, but applies some changes. I have added variables to set colors by modifying only var code. By default I use **orange** color.
 
 Copy custom theme file to zsh custom themes path:
 ```sh
