@@ -40,3 +40,4 @@ MIT License
 
 See [LICENSE](https://github.com/aramirol/apple-zsh-custom-themes/blob/main/LICENSE) to see the full text.
 
+
