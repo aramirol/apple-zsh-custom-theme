@@ -1,8 +1,8 @@
 #  Apple ZSH Custom Theme
 
-![GitHub](https://img.shields.io/github/license/aramirol/apple-zsh-custom-themes?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/aramirol/apple-zsh-custom-themes?logo=github)
-![Shell](https://img.shields.io/badge/shell-zsh-orange?logo=github)
+![GitHub](https://img.shields.io/github/license/aramirol/apple-zsh-custom-themes)
+![GitHub last commit](https://img.shields.io/github/last-commit/aramirol/apple-zsh-custom-themes)
+![Shell](https://img.shields.io/badge/shell-zsh-orange)
 
 This theme is based on the default `bobbyrussell`, but applies some changes. I have added variables to set colors by modifying only var code. By default I use **orange** color.
 
